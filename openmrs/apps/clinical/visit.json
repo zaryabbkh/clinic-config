@@ -46,26 +46,6 @@
                     "conceptNames":[ ]
                 }
             },
-            "labOrders": {
-                "type": "labOrders",
-                "displayOrder": 4,
-                "config": {
-                    "translationKey": "VISIT_TITLE_LAB_ORDERS_KEY",
-                    "showChart": true,
-                    "showTable": false,
-                    "showOrders": true,
-                    "showNormalLabResults": false,
-                    "showCommentsExpanded": false,
-                    "showAccessionNotes": true,
-                    "numberOfVisits": 10,
-                    "showDetailsButton": false,
-                    "hideResultsColumn": false,
-                    "chartConfig": {
-                        "sortResultColumnsLatestFirst":true,
-                        "groupByPanel":true
-                    } 
-                }
-            },
             "prescriptions":{
                 "translationKey":"DASHBOARD_TITLE_PRESCRIPTIONS_KEY",
                 "type":"prescription",
@@ -159,11 +139,7 @@
                     "showAccessionNotes": true,
                     "numberOfVisits": 10,
                     "showDetailsButton": false,
-                    "hideResultsColumn": false,
-                    "chartConfig": {
-                        "sortResultColumnsLatestFirst":true,
-                        "groupByPanel":true
-                    }
+                    "hideVisitDate": true
                 }
             },
             "radiologyOrderControl":  {
