@@ -1,30 +1,170 @@
-Washington,Seattle,123456
-Washington,Columbia,123457
-New York,Manhattan,123458
-London,Piccadilly,123459
-California,Disneyland,123460
-Victoria,Victoria,123461
-New South Wales,Sydney,123462
-Ontario,Ottawa,123463
-Quebec,Montreal,123464
-France,Paris,123465
-Kuala Lumpur,Kuala Lumpur,123466
-Amsterdam,Amsterdam,123467
-Philippines,Taguig,123468
-Western Province,Cape Town,123469
-Stockholm County,Stockholm,123470
-United States,Phoenix,123471
-DELHI,SOUTH EAST DELHI,110003
-PUNJAB,JALANDHAR,144028
-HIMACHAL PRADESH,KANGRA,176057
-UTTAR PRADESH,BUDAUN,243727
-RAJASTHAN,DHOLPUR,328023
-MAHARASHTRA,MUMBAI,400052
-TELANGANA,ADILABAD,504310
-KARNATAKA,BELLARY,583219
-TAMIL NADU,CHENNAI,600092
-KERALA,PALAKKAD,678598
-WEST BENGAL,BANKURA,722144
-ODISHA,MAYURBHANJ,757048
-ASSAM,DIBRUGARH,786622
-BIHAR,SIWAN,841233
+Azad Kashmir,Muzaffarabad,13100
+Azad Kashmir,Hattian Bala,13300
+Azad Kashmir,Neelum,13400
+Azad Kashmir,Mirpur,10250
+Azad Kashmir,Bhimber,10350
+Azad Kashmir,Kotli,11100
+Azad Kashmir,Poonch,12200
+Azad Kashmir,Bagh,12500
+Azad Kashmir,Haveli,12600
+Azad Kashmir,Sudhnati,12700
+Gilgit-Baltistan,Ghanche,16100
+Gilgit-Baltistan,Skardu,16200
+Gilgit-Baltistan,Roundu,16300
+Gilgit-Baltistan,Kharmang,16400
+Gilgit-Baltistan,Shigar,16500
+Gilgit-Baltistan,Astore,15200
+Gilgit-Baltistan,Diamer,15300
+Gilgit-Baltistan,Darel,15400
+Gilgit-Baltistan,Tangir,15500
+Gilgit-Baltistan,Ghizer,15600
+Gilgit-Baltistan,Gilgit,15100
+Gilgit-Baltistan,Hunza,15700
+Gilgit-Baltistan,Nagar,15800
+Gilgit-Baltistan,Gupis-Yasin District,15900
+Khyber Pakhtunkhwa,Haripur,22620
+Khyber Pakhtunkhwa,Battagram,22700
+Khyber Pakhtunkhwa,Abbottabad,22010
+Khyber Pakhtunkhwa,Allai,22800
+Khyber Pakhtunkhwa,Lower Kohistan,22900
+Khyber Pakhtunkhwa,Mansehra,21300
+Khyber Pakhtunkhwa,Torghar,21400
+Khyber Pakhtunkhwa,Upper Kohistan,21500
+Khyber Pakhtunkhwa,Kolai Palas,21600
+Khyber Pakhtunkhwa,Hangu,26200
+Khyber Pakhtunkhwa,Kurram,26300
+Khyber Pakhtunkhwa,Karak,27200
+Khyber Pakhtunkhwa,Kohat,26000
+Khyber Pakhtunkhwa,Orakzai,26400
+Khyber Pakhtunkhwa,Bajaur,18100
+Khyber Pakhtunkhwa,Buner,19100
+Khyber Pakhtunkhwa,Lower Chitral,17200
+Khyber Pakhtunkhwa,Lower Dir,18000
+Khyber Pakhtunkhwa,Shangla,19300
+Khyber Pakhtunkhwa,Malakand,23200
+Khyber Pakhtunkhwa,Swat,19200
+Khyber Pakhtunkhwa,Upper Chitral,17300
+Khyber Pakhtunkhwa,Upper Dir,18200
+Khyber Pakhtunkhwa,Central Dir District,18300
+Khyber Pakhtunkhwa,Charsadda,24420
+Khyber Pakhtunkhwa,Khyber,25100
+Khyber Pakhtunkhwa,Nowshera,24100
+Khyber Pakhtunkhwa,Peshawar,25000
+Khyber Pakhtunkhwa,Mohmand,25200
+Khyber Pakhtunkhwa,Upper South Waziristan,29100
+Khyber Pakhtunkhwa,Lower South Waziristan,29200
+Khyber Pakhtunkhwa,Tank,28200
+Khyber Pakhtunkhwa,Dera Ismail Khan,29050
+Khyber Pakhtunkhwa,North Waziristan,28300
+Khyber Pakhtunkhwa,Bannu,28100
+Khyber Pakhtunkhwa,Lakki Marwat,28400
+Khyber Pakhtunkhwa,Swabi,23430
+Khyber Pakhtunkhwa,Mardan,23200
+Sindh,Jamshoro,76100
+Sindh,Hyderabad,71000
+Sindh,Badin,72220
+Sindh,Dadu,76200
+Sindh,Matiari,71300
+Sindh,Sujawal,37050
+Sindh,Tando Allahyar,70400
+Sindh,Tando Muhammad Khan,70500
+Sindh,Thatta,73110
+Sindh,Ghotki,65300
+Sindh,Khairpur,66020
+Sindh,Sukkur,65200
+Sindh,Karachi Central,74200
+Sindh,Karachi East,75300
+Sindh,Karachi South,74400
+Sindh,Karachi West,75600
+Sindh,Keamari,74000
+Sindh,Korangi,74900
+Sindh,Malir,75400
+Sindh,Larkana,77150
+Sindh,Jacobabad,79000
+Sindh,Kashmore,77200
+Sindh,Qambar Shahdadkot,77300
+Sindh,Shikarpur,78100
+Sindh,Mirpur Khas,69000
+Sindh,Umerkot,69100
+Sindh,Tharparkar,69200
+Sindh,Sanghar,68100
+Sindh,Shaheed Benazirabad,67450
+Sindh,Naushahro Feroze,67500
+Balochistan,Hub,75530
+Balochistan,Surab,88400
+Balochistan,Lasbela,89200
+Balochistan,Mastung,87400
+Balochistan,Khuzdar,89100
+Balochistan,Kalat,88300
+Balochistan,Awaran,89300
+Balochistan,Barkhan,84100
+Balochistan,Duki,84200
+Balochistan,Musakhel,84300
+Balochistan,Loralai,84000
+Balochistan,Gwadar,91200
+Balochistan,Kech,92600
+Balochistan,Panjgur,92500
+Balochistan,Jafarabad,81100
+Balochistan,Jhal Magsi,81200
+Balochistan,Kachhi,81300
+Balochistan,Nasirabad,81000
+Balochistan,Sohbatpur,81400
+Balochistan,Usta Muhammad,81500
+Balochistan,Dera Bugti,82100
+Balochistan,Kohlu,82200
+Balochistan,Sibi,82000
+Balochistan,Harnai,82300
+Balochistan,Ziarat,82400
+Balochistan,Chaman,87500
+Balochistan,Pishin,87600
+Balochistan,Quetta,87300
+Balochistan,Qila Abdullah,87700
+Balochistan,Qilla Saifullah,85100
+Balochistan,Sherani,85200
+Balochistan,Zhob,85000
+Balochistan,Kharan,90100
+Balochistan,Nushki,90200
+Balochistan,Washuk,90300
+Balochistan,Chagai,90000
+Punjab,Rawalpindi,46000
+Punjab,Jhelum,49600
+Punjab,Attock,43600
+Punjab,Murree,47150
+Punjab,Chakwal,48800
+Punjab,Talagang,48100
+Punjab,Taunsa,32100
+Punjab,Kot Addu,34000
+Punjab,Layyah,31200
+Punjab,Dera Ghazi Khan,32200
+Punjab,Muzaffargarh,34600
+Punjab,Rajanpur,33100
+Punjab,Toba Tek Singh,36000
+Punjab,Jhang,35200
+Punjab,Chiniot,35400
+Punjab,Faisalabad,38000
+Punjab,Lahore,54000
+Punjab,Kasur,55050
+Punjab,Nankana Sahib,39100
+Punjab,Sheikhupura,39350
+Punjab,Sialkot,51310
+Punjab,Gujranwala,52250
+Punjab,Narowal,51800
+Punjab,Okara,56300
+Punjab,Pakpattan,57400
+Punjab,Sahiwal,57000
+Punjab,Rahim Yar Khan,64200
+Punjab,Bahawalnagar,62300
+Punjab,Bahawalpur,63100
+Punjab,Sargodha,40100
+Punjab,Khushab,41000
+Punjab,Bhakkar,30000
+Punjab,Mianwali,42200
+Punjab,Khanewal,58150
+Punjab,Vehari,61100
+Punjab,Multan,60000
+Punjab,Lodhran,59320
+Punjab,Mandi Bahauddin,50400
+Punjab,Gujrat,50700
+Punjab,Hafizabad,52110
+Punjab,Wazirabad,52000
+Islamabad Capital Territory,Islamabad Capital Territory,44000
